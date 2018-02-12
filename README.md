@@ -1,2 +1,2 @@
-# RepoTry
+# First-try
 learning about repo
